@@ -1,0 +1,35 @@
+_repo: Big-Pill_31929
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31929-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gallun, Raymond Z.
+    aliases:
+    - Gallun, Raymond Zinke
+    - Gallun, Raymond Z. (Raymond Zinke)
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '28382'
+    url: http://www.gutenberg.org/2009/agents/28382
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
+description: Child, it was, of the now ancient H-bomb. New. Untested. Would its terrible
+  power sweep the stark Saturnian moon of Titan from space ... or miraculously create
+  a flourishing paradise-colony?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space colonies -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Big Pill
+url: http://www.gutenberg.org/ebooks/31929
